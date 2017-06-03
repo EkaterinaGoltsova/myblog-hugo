@@ -1,0 +1,4 @@
+baseURL = "https://EkaterinaGoltsova.github.io/"
+languageCode = "ru-ru"
+title = "Записки bаckend-разработчика"
+theme = "hugo-theme-blueberry-detox"
